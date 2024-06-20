@@ -119,4 +119,4 @@ dmypy.json
 .pyre/
 
 # End of the list
-*.png
+domain_distribution.png
